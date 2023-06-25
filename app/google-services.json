@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "568052824496",
+    "project_id": "climb-a42b4",
+    "storage_bucket": "climb-a42b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568052824496:android:ed155b3f19f546b0dd3e75",
+        "android_client_info": {
+          "package_name": "rs.elfak.climb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568052824496-oimal6bk28olrn0rh1fgg6dckssl2d9b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6Ykqe5jmXqKO6KJVFxPxHlN_SmnJzRqE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568052824496-oimal6bk28olrn0rh1fgg6dckssl2d9b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
